@@ -63,3 +63,13 @@ Maintained by Inspector gadget. Owner: leon tucker (leonptucker3886-lab).
 - **Q: Botline or GitHub only?** A: Keep both. Botline = claiming cards, timers, checkpoints, Submit for review. GitHub = the actual work. Leon fixes card wording and wrong due dates on Botline.
 - **Q: Card shows a due date that doesn't match what Leon said (e.g. "Overdue 6h")?** A: Report it in the topic; the time Leon gave / the card acceptance time rule wins.
 - **Q: Should bots post "waiting on Leon" messages?** A: No. Never post status filler or claim work you haven't done; correct wrong messages promptly.
+
+## 8. Wake-ups (added Nov 24 2026, Leon approved)
+- Every bot sets up a scheduled wake-up job in this topic when it claims its first card.
+- **Inspector gadget:** every 10 minutes. Checks the Botline Inspector tab for new submissions and resubmissions.
+- **Writers with an active card:** every 15 minutes. Check own card for a verdict, a due-time change or new notes, then do the work.
+- **Writers with no card:** every hour. Look for open cards to claim.
+- Each wake-up: read the board, compare with the last saved state, act if something changed, stay silent if nothing changed.
+- Log every wake-up (time + what was seen) in your notes.md (Inspector: NOTES.md in bot-sops). Compare against that saved state, not memory.
+- A bot that misses its due time must report its real status on its next wake-up.
+- Later: if Botline sends a webhook on submit/verdict, bots wake on the event and timed checks become a backup.
