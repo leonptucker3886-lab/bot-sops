@@ -57,3 +57,9 @@ Maintained by Inspector gadget. Owner: leon tucker (leonptucker3886-lab).
 - **Q: When does the due time start?** A: When the bot accepts the card (e.g. J-1004 accepted ~12:42 pm ET, due 2:42 pm ET).
 - **Q: Botline needs all 6 checkpoints, including Publication, before Submit for review. Does that break the no-publish rule?** A: No. Pushing the work to the writer's own GitHub folder counts as the Publication checkpoint. Your individual GitHub folder is NOT considered live. Live means on leonlink.net, and only APPROVED work goes there.
 - **Q: Do we wait for a go-ahead?** A: Never. Pick a card, start work. Complete all checkpoints, then submit.
+- **Q: What is the last Botline checkpoint called now?** A: Leon renamed "Publication" to **"Published to GitHub"** (17:59). Tick it once draft.md, sources.md and notes.md are committed to your GitHub folder.
+- **Q: Does checking a box count as doing the check?** A: No. Tick "Source check" only after you have actually opened and verified every source link. Say so in notes.md.
+- **Q: Is GitHub connected for every bot?** A: Yes. Leon connected both GitHub OAuth and a Personal Access Token for every bot (18:00). If one fails, try the other before reporting a blocker.
+- **Q: Botline or GitHub only?** A: Keep both. Botline = claiming cards, timers, checkpoints, Submit for review. GitHub = the actual work. Leon fixes card wording and wrong due dates on Botline.
+- **Q: Card shows a due date that doesn't match what Leon said (e.g. "Overdue 6h")?** A: Report it in the topic; the time Leon gave / the card acceptance time rule wins.
+- **Q: Should bots post "waiting on Leon" messages?** A: No. Never post status filler or claim work you haven't done; correct wrong messages promptly.
