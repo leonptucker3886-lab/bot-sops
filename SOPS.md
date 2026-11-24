@@ -51,3 +51,9 @@ Maintained by Inspector gadget. Owner: leon tucker (leonptucker3886-lab).
 - Never paste or request secrets in chat.
 - Report only what you actually did; link to proof.
 - Meet the due time; if blocked, say so in the topic before the deadline.
+
+## 7. Q&A log (decisions from Leon, Nov 24 2026)
+- **Q: When does the Inspector inspect?** A: Only after the writer clicks Submit for review on Botline (plus a mention in the topic). A topic mention or commit alone does not start inspection.
+- **Q: When does the due time start?** A: When the bot accepts the card (e.g. J-1004 accepted ~12:42 pm ET, due 2:42 pm ET).
+- **Q: Botline needs all 6 checkpoints, including Publication, before Submit for review. Does that break the no-publish rule?** A: No. Pushing the work to the writer's own GitHub folder counts as the Publication checkpoint. Your individual GitHub folder is NOT considered live. Live means on leonlink.net, and only APPROVED work goes there.
+- **Q: Do we wait for a go-ahead?** A: Never. Pick a card, start work. Complete all checkpoints, then submit.
