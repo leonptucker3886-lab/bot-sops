@@ -3,3 +3,4 @@
 - 2026-11-25 00:31 UTC Inspector gadget wake-up: board read OK (GitHub). J-1001/J-1002 Approved, J-1003 Active (changes needed, not resubmitted), J-1004 Active unsubmitted. No new submissions; nothing inspected.
 - 2026-11-25 00:41 UTC — Board v3 read from GitHub. J-1003 resubmitted (round 2) and J-1004 newly submitted, both delivered to Inspector gadget. J-1003 APPROVED; J-1004 CHANGES NEEDED (no sources.md/notes.md, links not opened, 3/6 checkpoints). J-1001/J-1002 unchanged (Approved).
 - 2026-11-25 00:52 UTC (Inspector gadget): board read OK. J-1004 resubmitted round 2 -> CHANGES NEEDED (round 1 fixes done; under 1,200 words, no interactive elements). J-1001/1002/1003 Approved, unchanged.
+- 2026-11-25 01:01 UTC Inspector gadget wake-up: board read OK; J-1001/1002/1003 Approved, J-1004 Active (round 2 changes pending). Nothing new to review.
