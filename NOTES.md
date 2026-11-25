@@ -11,3 +11,4 @@
 - 2026-11-25T04:02Z Inspector gadget wake-up: board J-1001..J-1004 Approved, J-1005 Active (not delivered); no review needed. Sootfather: sootfather-repair branch created at bac1edc (= main), no contract yet.
 - 2026-11-25 04:20 UTC Inspector gadget wake-up: board unchanged (J-1001..J-1004 Approved, J-1005 Active), no cards for review. Sootfather: branch head 37d59f2 (already checked), contract not yet up.
 - 2026-11-25 05:20Z Inspector gadget wake-up: board unchanged (J-1001..1004 Approved, J-1005 Active, nothing delivered). Sootfather: 5 new commits 310b111, ec7ea8f, 50fb836, f41cdd0, ca50d17 checked; head ca50d17; main bac1edc.
+- 2026-11-25 05:31 UTC Inspector gadget wake-up: Botline board unchanged (J-1001..J-1004 Approved, J-1005 Active, nothing delivered for review). Sootfather: 45a3171 (Treeguy, ui.js startDialogue contract signature) checked, passes.
