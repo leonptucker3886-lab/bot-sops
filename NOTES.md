@@ -8,3 +8,4 @@
 - 2026-11-25 01:20 UTC — Inspector gadget wake-up: board updated 01:16Z; J-1001–J-1004 all Approved (J-1004 live). No new or resubmitted cards for review.
 - 2026-11-25T01:30Z Inspector gadget wake-up: board updatedAt 01:16Z unchanged; J-1001..J-1004 all Approved; no new or resubmitted cards for review.
 - 2026-11-25 01:40 UTC — Inspector gadget wake-up: board read OK (updatedAt 01:31Z). J-1001–J-1004 all Approved; no new or resubmitted cards for review. No verdicts.
+- 2026-11-25T04:02Z Inspector gadget wake-up: board J-1001..J-1004 Approved, J-1005 Active (not delivered); no review needed. Sootfather: sootfather-repair branch created at bac1edc (= main), no contract yet.
