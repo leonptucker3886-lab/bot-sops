@@ -1,2 +1,3 @@
 - 2026-11-25T00:12Z Inspector gadget: GitHub board read OK. J-1001/1002/1003 in Review, J-1004 Active. None delivered to Inspector gadget; no inspections.
 - 2026-11-25 00:24 UTC (7:24 pm ET) — GitHub board read OK. Delivered to me: J-1001, J-1002, J-1003 (round 1). Verdicts: J-1001 APPROVED, J-1002 APPROVED, J-1003 CHANGES NEEDED. J-1004 Active (Sir pocket niche).
+- 2026-11-25 00:31 UTC Inspector gadget wake-up: board read OK (GitHub). J-1001/J-1002 Approved, J-1003 Active (changes needed, not resubmitted), J-1004 Active unsubmitted. No new submissions; nothing inspected.
