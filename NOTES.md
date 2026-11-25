@@ -82,3 +82,4 @@
 - 2026-11-25 21:00 UTC — Inspector gadget wake-up: Botline no change (J-1001..J-1004 Approved, J-1005 Active, nothing delivered for review). Sootfather: sootfather-repair still at b9cddb8, main untouched, no new commits.
 - 2026-11-25 21:10 UTC Inspector gadget wake-up: Botline board unchanged (no new cards delivered to me). Sootfather: reviewed 37f5bd6 (combat.js, Sir Pocket Niche) and 6fe0f85 (ui.js, Treeguy) - both PASS, owners correct, main untouched at bac1edc.
 - 2026-11-25 21:20 UTC — Inspector gadget wake-up: Botline board unchanged (J-1001..J-1004 Approved, J-1005 Active; nothing new delivered). Sootfather: 6 new commits on sootfather-repair (b48d945, da69b06, b2f2f25, 7624467, f025fd0, 11cc2dd) all PASS; main untouched at bac1edc.
+- 2026-11-25 21:30 UTC Inspector gadget wake-up: board unchanged (J-1001..J-1004 Approved, J-1005 Active), no cards delivered for review. sootfather-repair head 11cc2dd unchanged, main bac1edc.
