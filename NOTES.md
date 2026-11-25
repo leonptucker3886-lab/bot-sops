@@ -1,0 +1,1 @@
+- 2026-11-25T00:12Z Inspector gadget: GitHub board read OK. J-1001/1002/1003 in Review, J-1004 Active. None delivered to Inspector gadget; no inspections.
