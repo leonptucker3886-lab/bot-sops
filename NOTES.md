@@ -137,3 +137,4 @@
 - 2026-11-26 10:20 UTC Inspector gadget wake-up: board unchanged (updatedAt 06:24), no cards delivered for review. Sootfather branch head still 48c3d14, main fa54ceb; waiting on Robert intro fix.
 - 2026-11-26 10:30 UTC Inspector gadget wake-up: board unchanged (last board commit 98df19c 06:24); no new/resubmitted cards delivered to Inspector gadget. Sootfather branch head 48c3d14, main fa54ceb; no change.
 - 2026-11-26 10:40 UTC Inspector gadget wake-up: Botline no change (J-1001..J-1004 Approved, J-1005 Active, J-1006..J-1011 Open; nothing delivered for review). Sootfather head 48c3d14 unchanged, main fa54ceb; still waiting on Robert intro fix.
+- 2026-11-26 10:50Z Inspector gadget wake-up: Botline board unchanged, no cards delivered for review. Sootfather branch head 3a91c19 (Robert intro fix, reviewed in chat); main fa54ceb, no sootfather files.
