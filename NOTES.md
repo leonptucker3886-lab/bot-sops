@@ -154,3 +154,4 @@
 - 2026-11-27 06:30 UTC — Inspector gadget wake-up: board unchanged (updatedAt 2026-11-26T11:36Z), no cards delivered to Inspector gadget new/resubmitted. sootfather-repair head still c0dd1fc; main 0f48c78; no changes.
 - 2026-11-27 06:40 UTC Inspector gadget wake-up: Botline board unchanged (last update 11-26 11:36, nothing new delivered to Inspector). sootfather-repair head still c0dd1fc; build test of c0dd1fc preview still pending. main moved to 81d6a05 (Leon, Sun N Fun files only, no Sootfather files).
 - 2026-11-27 06:50 UTC Inspector gadget wake-up: board unchanged (last update 2026-11-26 11:36Z), no cards delivered to Inspector gadget; sootfather-repair head still c0dd1fc, build test pending.
+- 2026-11-27 07:00 UTC Inspector gadget wake-up: board unchanged (updatedAt 2026-11-26T11:36Z), no cards delivered for review. sootfather-repair head c0dd1fc unchanged; main 85ba07c (Mushroom brain rebuild, no sootfather files). Build test of c0dd1fc still pending.
