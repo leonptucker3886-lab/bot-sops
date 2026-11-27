@@ -145,3 +145,4 @@
 - 2026-11-26 11:40 UTC Inspector gadget wake-up: board J-1001..1010 unchanged (J-1011 added and deleted by Boss, never delivered); nothing delivered for review. Sootfather: head 3a91c19 unchanged, main 0f48c78 no sootfather files.
 - 2026-11-26 11:50 UTC Inspector gadget wake-up: Botline board unchanged (updatedAt 11:36:14Z), no cards delivered to Inspector gadget. Sootfather: sootfather-repair head c0dd1fc (mid-fight resume fix, code-reviewed pass, build test pending).
 - 2026-11-27 03:10 UTC Inspector gadget wake-up: board unchanged (updatedAt 2026-11-26T11:36Z), no new/resubmitted cards for inspector; sootfather-repair still c0dd1fc, main 0f48c78; build test of c0dd1fc pending (Leon stopped work for Thanksgiving).
+- 2026-11-27 04:30 UTC Inspector gadget wake-up: board unchanged since 2026-11-26 11:36 (no new/resubmitted cards for Inspector gadget). sootfather-repair head still c0dd1fc; build test pending.
