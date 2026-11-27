@@ -197,3 +197,4 @@
 - 2026-11-27 16:20 UTC Inspector gadget wake-up: board unchanged (updatedAt 2026-11-26T11:36Z), no cards delivered for review; sootfather-repair head still c0dd1fc, build test pending.
 - 2026-11-27 16:30 UTC Inspector gadget wake-up: board unchanged (updatedAt 2026-11-26T11:36Z), no cards delivered to Inspector gadget; sootfather-repair head c0dd1fc unchanged, main 708f213 unchanged; nothing new.
 - 2026-11-27 16:40 UTC Inspector gadget wake-up: Botline board unchanged (updatedAt 2026-11-26T11:36Z, no new/resubmitted cards for Inspector gadget). Sootfather: sootfather-repair head still c0dd1fc, no new commits; build test of c0dd1fc pending.
+- 2026-11-27 16:50 UTC Inspector gadget wake-up: board unchanged (updatedAt 2026-11-26T11:36Z, no new/resubmitted cards for inspector); sootfather-repair head still c0dd1fc; main moved to fea7ef1 (Sun N Fun sound kit, no sootfather files).
